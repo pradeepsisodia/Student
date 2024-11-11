@@ -196,7 +196,7 @@ class SavingAccount : Account, Customer
 
     static void Main()
     {
-        SavingAccount account1 = new SavingAccount("John Doe", "A12345", 5000.0);
+        SavingAccount account1 = new SavingAccount("Pradeep", "A12345", 5000.0);
 
         account1.Display_Customer_Detail();
 
